@@ -4,26 +4,26 @@
 
 Classifying videos (based on description) in following 6 categories –
   
-  Travel Blogs
+    Travel Blogs
   
-  Science and Technology
+    Science and Technology
   
-  Food
+    Food
   
-  Manufacturing
+    Manufacturing
   
-  History
+    History
   
-  Art and Music
+    Art and Music
 
 # NOTE:
 
 1. Here we have used 3 different models for the classifiaction :-
 
-  Logistic Regression (Linear classifier)
+    Logistic Regression (Linear classifier)
   
-  Shallow Neural Nets
+    Shallow Neural Nets
   
-  LSTM
+    LSTM
 
 2. Report Contains Web Scraping Code Snippet .
